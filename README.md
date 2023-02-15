@@ -31,15 +31,15 @@ Click on `Use this template`
 ```
 .
 ├── lua
-│   ├── plugin_name
+│   ├── cid
 │   │   └── module.lua
-│   └── plugin_name.lua
+│   └── cid.lua
 ├── Makefile
 ├── plugin
-│   └── plugin_name.lua
+│   └── cid.lua
 ├── README.md
 ├── tests
 │   ├── minimal_init.lua
-│   └── plugin_name
-│       └── plugin_name_spec.lua
+│   └── cid
+│       └── cid.lua
 ```
